@@ -1,0 +1,10 @@
+
+saDL
+ALD
+LA
+DlA
+DL
+AL
+DlA
+LD
+DLK
