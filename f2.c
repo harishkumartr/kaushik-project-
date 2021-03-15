@@ -1,10 +1,9 @@
+/* Hello World program */
 
-saDL
-ALD
-LA
-DlA
-DL
-AL
-DlA
-LD
-DLK
+#include<stdio.h>
+
+main()
+{
+printf("Hello World");
+
+}
